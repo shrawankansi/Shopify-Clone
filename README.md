@@ -19,7 +19,7 @@ HTML, CSS..., TailwindCSS
 
 ## Screenshots
 
-![App Screenshot](./project-1.png)
+![App Screenshot](https://github.com/shrawankansi/Shopify-Clone/blob/main/screenshot.png)
 
 
 ## 🔗 contact me

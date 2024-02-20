@@ -4,6 +4,7 @@
 
 Home page 
 In this project i use only html, Tailwind CSS, javaScript.
+fully Responsive website by tailwind css.
 
 
 

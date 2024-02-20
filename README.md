@@ -3,7 +3,7 @@
 
 
 Home page 
-In this project i use only html, Tailwind CSS
+In this project i use only html, Tailwind CSS, javaScript.
 
 
 

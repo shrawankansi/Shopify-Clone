@@ -2,7 +2,7 @@
 # Shopify.com Clone Using Tailwind CSS.
 
 
-Home page.
+Home Page.
 In this project i use only html, Tailwind CSS, javaScript.
 fully Responsive website by tailwind css.
 

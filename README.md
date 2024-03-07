@@ -15,7 +15,7 @@ fully Responsive website by tailwind css.
 
 
 ## 🛠 Skills
-HTML, CSS..., TailwindCSS , JavaScript;
+HTML, CSS..., TailwindCSS , "JavaScript";
 
 
 ## Screenshots
